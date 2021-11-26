@@ -9,11 +9,11 @@ https://www.worldometers.info/coronavirus
 
 ## Screenshots
 
-![plotly graph 1](https://user-images.githubusercontent.com/93968656/143460500-c88107e9-0dc0-400a-953a-fd099af57da2.png)
-
-![plotly graph 2](https://user-images.githubusercontent.com/93968656/143460516-8ae38253-2f2f-4d2f-a8f6-404805ee92b2.png)
-
-![plotly graph 3](https://user-images.githubusercontent.com/93968656/143460532-d0757890-b62c-4b26-9112-bc5b67dc6c9f.png)
+![worldcovid 1](https://user-images.githubusercontent.com/93968656/143616683-2d9a0228-375a-473b-a10c-55229c1e4af6.png)
+![worldcovid 2](https://user-images.githubusercontent.com/93968656/143616690-21827220-871b-4f65-87ef-edf7c1d4f6f9.png)
+![worldcovid 3](https://user-images.githubusercontent.com/93968656/143616708-43dca3db-ed5e-4165-9592-ce8f481543b8.png)
+![worldcovid 3-5](https://user-images.githubusercontent.com/93968656/143616717-95967711-9437-4ff7-9249-d67dd2bb8fa7.png)
+![worldcovid 4](https://user-images.githubusercontent.com/93968656/143616728-987e5b5e-68d2-45a9-9bbb-10b82e80d63b.png)
 
 
 
