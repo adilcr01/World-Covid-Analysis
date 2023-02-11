@@ -25,17 +25,17 @@ https://www.worldometers.info/coronavirus
 ##### WebScrapping Library: Selenium,Beautifulsoap
 
 
-## Deployement on Heroku
-##### Login or signup in order to create virtual app. You can either connect your github profile or download Heroku cli to manually deploy this project.
-![image](https://user-images.githubusercontent.com/93968656/141473709-159ff490-856e-4cab-95b0-504d52b8eaea.png)
+## Deployement on Streamlit
+##### Login or signup in order to create virtual app. You can connect your github profile to deploy this project.
+![image](https://user-images.githubusercontent.com/93968656/218260824-8b87cf56-6ada-4c1d-9d04-d0148f8ef372.png)
 
-##### The next step would be to follow the instruction given in the Heroku Documentation to deploy a web app.
+
+##### The next step would be to follow the instruction given in the Streamlit Documentation to deploy a web app.
 
 
 ## Link to the application 
 
-##### Check out the live demo:
-https://world-covid-analysis.herokuapp.com
+##### Check out the live demo: [Link](https://adilcr01-world-covid-analysis-app-1ar2on.streamlit.app/)
 
 #### Loading of app might take some time as the Webframework used is Streamlit
 
